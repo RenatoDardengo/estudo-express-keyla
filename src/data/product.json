@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "nome": " Vinho 1",
+        "preco": "R$50,00",
+        "descricao":" Sou o item 1"
+    },
+    {
+        "id": 2,
+        "nome": "Vinho 2",
+        "preco": "R$100,00",
+        "descricao": " Sou o item 2"
+    },
+    {
+        "id": 3,
+        "nome": " vinho 3",
+        "preco": "R$150,00",
+        "descricao": " Sou o item 3"
+    }
+]
+    
